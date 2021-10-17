@@ -1,0 +1,12 @@
+{
+  "name": "BUSD Token",
+  "website": "",
+  "description": "",
+  "explorer": "",
+  "type": "ERC20",
+  "symbol": "BUSD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xde26b75f8f3826C6254C33Fc1C7801aD524FfE68",
+  "links": []
+}
