@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped BNB",
+  "website": "",
+  "description": "",
+  "explorer": "",
+  "type": "BEP20",
+  "symbol": "WBNB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x016DD5518915AC596C99932c561680b086DB3208"
+}
