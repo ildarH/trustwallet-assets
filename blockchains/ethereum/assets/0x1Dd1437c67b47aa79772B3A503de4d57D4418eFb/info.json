@@ -1,17 +1,12 @@
 {
-  "name": "Lead Wallet",
-  "website": "https://leadwallet.io",
-  "description": "Lead Wallet is a simple decentralized multi-crypto wallet application that allow users to spend, store, swap, stake and exchange cryptocurrencies.",
-  "explorer": "https://etherscan.io/token/0x1dD80016e3d4ae146Ee2EBB484e8edD92dacC4ce",
+  "name": "ToonWorld Finance",
+  "website": "",
+  "description": "",
+  "explorer": "",
   "type": "ERC20",
-  "symbol": "LEAD",
+  "symbol": "TOON",
   "decimals": 18,
   "status": "active",
-  "id": "0x1dD80016e3d4ae146Ee2EBB484e8edD92dacC4ce",
-  "links": [
-    {
-      "name": "github",
-      "url": "https://github.com/leadwallet"
-    }
-  ]
+  "id": "0x1Dd1437c67b47aa79772B3A503de4d57D4418eFb",
+  "links": []
 }
