@@ -1,0 +1,24 @@
+{
+  "name": "PontoonToken",
+  "website": "https://pontoon.fi/",
+  "description": "Cross-chain liquidity mirror protocol",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/pontoonfi/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pontoon_fi"
+    },
+    {
+      "name": "medium",
+      "url": "https://pontoonfi.medium.com/"
+    }
+  ],
+  "type": "POLYGON",
+  "symbol": "TOON",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9E1D1c494460B385ad52CC1984ffAb6eE2A4A439"
+}

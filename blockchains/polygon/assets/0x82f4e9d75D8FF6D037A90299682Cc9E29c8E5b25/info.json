@@ -1,12 +1,24 @@
 {
-    "name": "ToonWorld Finance",
-    "website": "",
-    "description": "",
-    "explorer": "",
+    "name": "PontoonToken",
+    "website": "https://pontoon.fi/",
+    "description": "Cross-chain liquidity mirror protocol",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/pontoonfi/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/pontoon_fi"
+        },
+        {
+            "name": "medium",
+            "url": "https://pontoonfi.medium.com/"
+        }
+    ],
     "type": "POLYGON",
     "symbol": "TOON",
     "decimals": 18,
     "status": "active",
-    "id": "0x82f4e9d75D8FF6D037A90299682Cc9E29c8E5b25",
-    "links": []
+    "id": "0x82f4e9d75D8FF6D037A90299682Cc9E29c8E5b25"
 }
