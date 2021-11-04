@@ -1,0 +1,12 @@
+{
+  "name": "Dai Token - Binance USD",
+  "website": "",
+  "description": "",
+  "explorer": "",
+  "type": "ERC20",
+  "symbol": "DAI-BUSD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xcd987575062Ad8998Eb5715E05A04438FCEB6Ce2",
+  "links": []
+}

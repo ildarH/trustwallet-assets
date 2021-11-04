@@ -1,0 +1,12 @@
+{
+  "name": "Dai Token - Wrapped BNB",
+  "website": "",
+  "description": "",
+  "explorer": "",
+  "type": "ERC20",
+  "symbol": "DAI-WBNB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5C44077Ae9053bb4993dE1BAd01624A9C16d21eF",
+  "links": []
+}

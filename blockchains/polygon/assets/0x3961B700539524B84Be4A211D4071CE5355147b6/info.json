@@ -1,0 +1,24 @@
+{
+  "name": "PontoonToken - Wrapped BNB",
+  "website": "https://pontoon.fi/",
+  "description": "Cross-chain liquidity mirror protocol",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/pontoonfi/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pontoon_fi"
+    },
+    {
+      "name": "medium",
+      "url": "https://pontoonfi.medium.com/"
+    }
+  ],
+  "type": "POLYGON",
+  "symbol": "TOON-WBNB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3961B700539524B84Be4A211D4071CE5355147b6"
+}

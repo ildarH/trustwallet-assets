@@ -1,0 +1,11 @@
+{
+  "name": "PancakeSwap Token - Binance USD",
+  "symbol": "CAKE-BUSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "",
+  "status": "active",
+  "id": "0x626c4C27ca51D2497C3D64542C931dB246ad20DA"
+}

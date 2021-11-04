@@ -1,0 +1,24 @@
+{
+  "name": "PontoonToken - Binance USD",
+  "website": "https://pontoon.fi/",
+  "description": "Cross-chain liquidity mirror protocol",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/pontoonfi/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pontoon_fi"
+    },
+    {
+      "name": "medium",
+      "url": "https://pontoonfi.medium.com/"
+    }
+  ],
+  "type": "POLYGON",
+  "symbol": "TOON-BUSD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x69f0C0420887563efa2EEDECcd396928248E36bb"
+}

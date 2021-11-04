@@ -1,0 +1,11 @@
+{
+  "name": "PancakeSwap Token - Wrapped BNB",
+  "symbol": "CAKE-WBNB",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "",
+  "explorer": "",
+  "status": "active",
+  "id": "0x2aB8901358bEB82a065c2F6beCEa1A8e5fbAAE0C"
+}
