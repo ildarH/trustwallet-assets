@@ -1,11 +1,25 @@
 {
-    "name": "TOON World Finance",
+    "name": "PontoonToken",
+    "website": "https://pontoon.fi/",
+    "description": "Cross-chain liquidity mirror protocol",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/pontoonfi/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/pontoon_fi"
+        },
+        {
+            "name": "medium",
+            "url": "https://pontoonfi.medium.com/"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
     "type": "BEP20",
     "symbol": "TOON",
     "decimals": 18,
-    "website": "",
-    "description": "",
-    "explorer": "",
     "status": "active",
     "id": "0x511578c9Bfb14230eA4f15aDae61253020560750"
 }
